@@ -1,0 +1,7 @@
+{
+  "name": "PencilPortal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
